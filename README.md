@@ -8,7 +8,7 @@
 - 💞️ I’m interested to network with other students of OOP as well as established professionals to find out more about what they do!
  If you are hiring junior software devs in Fintech, Digital Change and Transformation or another exciting area, and you think I may have the kind of background you're looking for, please reach out to me!
 
-- 📫 You can message me on LinkedIn where I'm https://www.linkedin.com/in/Aoife Sandy Boyle.
+- 📫 You can message me on LinkedIn where I'm https://www.linkedin.com/in/aoife-sandy-boyle-360165196
 
 <!---
 aoifeags/aoifeags is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
