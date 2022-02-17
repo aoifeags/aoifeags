@@ -6,8 +6,7 @@
    (that's a training program which teaches primarily Full Stack Java development + frameworks (SpringBoot and React) as well as some SQL.) 
    
 - 💞️ I’m interested to network with other students of OOP as well as established professionals to find out more about what they do!
-
--- If you are hiring junior software devs in Fintech, Digital Change and Transformation, or for another exciting area, please reach out to me!
+ If you are hiring junior software devs in Fintech, Digital Change and Transformation or another exciting area, and you think I may have the kind of background you're looking for, please reach out to me!
 
 - 📫 You can message me on LinkedIn where I'm https://www.linkedin.com/in/Aoife Sandy Boyle.
 
